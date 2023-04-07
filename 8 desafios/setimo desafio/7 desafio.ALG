@@ -1,8 +1,7 @@
-Algoritmo "Comissões"
+Algoritmo "ComissÃµes"
 // Disciplina   : PA
-// Professor   : Edilms Bindá
-// Turma : 1°C / B
-// Autor(a)    : Vinícius Araujo Ramos
+// Professor   : 
+// Autor(a)    : iago s menezes
 // Data atual  : 09/03/2023
 Var
 fixo, vendasemdinheiro, salarionofinaldomes, porcentagem: real
@@ -16,10 +15,10 @@ inicio
 escreval (" Digite o nome do vendedor: ")
 leia(nome)
 
-escreval (" Digite o salário fixo do vendedor: ")
+escreval (" Digite o salÃ¡rio fixo do vendedor: ")
 leia(fixo)
 
-escreval (" Digite o valor em real de vendas do mês: ")
+escreval (" Digite o valor em real de vendas do mÃªs: ")
 leia(vendasemdinheiro)
 
 
@@ -27,6 +26,6 @@ leia(vendasemdinheiro)
 salarionofinaldomes <- (vendasemdinheiro * 15/100) + fixo
 
 //Saida
-escreval ("O vendedor: ",nome, " Ganha: ",fixo, " Porém com as comissões ira ganhar: ",salarionofinaldomes)
+escreval ("O vendedor: ",nome, " Ganha: ",fixo, " PorÃ©m com as comissÃµes ira ganhar: ",salarionofinaldomes)
 
 Fimalgoritmo
