@@ -1,19 +1,19 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : edilma bindá
-// Autor(a)    : paulo henrique lima silva
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : 
+// Autor(a)    : iago s menezes
 // Data atual  : 30/03/2023
 Var
 dolar,cotacao,reais:real
 
 
 Inicio
-escreval ("digite a cotação do dolar")
+escreval ("digite a cotaÃ§Ã£o do dolar")
 leia(cotacao)
 escreval ("digite o valor monetarioa ser convertido em dolar")
 leia(reais)
 dolar <- reais / cotacao
-escreval ("o dinheiro em dolar é ",dolar,".")
+escreval ("o dinheiro em dolar Ã© ",dolar,".")
 
 
 Fimalgoritmo
