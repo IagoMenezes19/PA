@@ -1,17 +1,17 @@
 Algoritmo "Atividade PA 2"
 // Disciplina   :PA
-// Professor   : Edilma Binda
-// Aluno(a)    : Matheus Soares
+// Professor   : 
+// Aluno(a)    : iago s menezes
 // Data atual  : 09/03/2023
 Var
 altura,base,perimetro,area:real
 Inicio
-escreval("Determine a altura do seu ret‚ngulo:")
+escreval("Determine a altura do seu ret√¢ngulo:")
 leia(altura)
-escreval("Determina a base do seu ret‚ngulo:")
+escreval("Determina a base do seu ret√¢ngulo:")
 leia(base)
 area <- base*altura
 perimetro <- altura+altura+base+base
-escreval("O perimetro do seu ret‚ngulo È de ",perimetro," cm")
-escreval("A area do seu ret‚ngulo È de ",area," cm")
+escreval("O perimetro do seu ret√¢ngulo √© de ",perimetro," cm")
+escreval("A area do seu ret√¢ngulo √© de ",area," cm")
 Fimalgoritmo
