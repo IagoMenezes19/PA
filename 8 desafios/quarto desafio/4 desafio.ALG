@@ -1,8 +1,7 @@
 Algoritmo "ConsumoDeCombuustivelMedio"
 // Disciplina   : PA
-// Professor   : Edilms Bindá
-// Turma : 1°C / B
-// Autor(a)    : Vinícius Araujo Ramos
+// Professor   : 
+// Autor(a)    : iago s menezes
 // Data atual  : 09/03/2023
 Var
 distancia, combustivelgasto, consumomedio: real
@@ -13,10 +12,10 @@ distancia, combustivelgasto, consumomedio: real
 
 inicio
 
-escreval (" Digite a distância percorrida pelo carro: ")
+escreval (" Digite a distÃ¢ncia percorrida pelo carro: ")
 leia(distancia)
 
-escreval (" Digite o total de combustível gasto em litros: ")
+escreval (" Digite o total de combustÃ­vel gasto em litros: ")
 leia(combustivelgasto)
 
 
@@ -25,6 +24,6 @@ consumomedio <- distancia/combustivelgasto
 
 
 //Saida
-escreval ("O consumo médio de combustivel do seu carro é: ", consumomedio)
+escreval ("O consumo mÃ©dio de combustivel do seu carro Ã©: ", consumomedio)
 
 Fimalgoritmo
