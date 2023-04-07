@@ -1,7 +1,7 @@
 Algoritmo "Atividade PA 5"
 // Disciplina   :PA
-// Professor   : Edilma Binda
-// Aluno(a)    : Matheus Soares
+// Professor   : 
+// Aluno(a)    : iago s menezes
 // Data atual  : 09/03/2023
 Var
 nome:caractere
@@ -16,5 +16,5 @@ leia(provaDois)
 escreval("Nota do aluno recebida da terceira prova do semestre:")
 leia(provaTres)
 media <- (provaUm+provaDois+provaTres)/3
-escreval("A media do semestre de ",nome," é ",media)
+escreval("A media do semestre de ",nome," Ã© ",media)
 Fimalgoritmo
