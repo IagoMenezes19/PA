@@ -1,8 +1,7 @@
-Algoritmo "4Operações"
+Algoritmo "4OperaÃ§Ãµes"
 // Disciplina   : PA
-// Professor   : Edilms Bindá
-// Turma : 1°C / B
-// Autor(a)    : Vinícius Araujo Ramos
+// Professor   : 
+// Autor(a)    : iago s menezes
 // Data atual  : 09/03/2023
 Var
 numero1, numero2, subtracao, multiplicacao, adicao, divisao: real
@@ -13,10 +12,10 @@ numero1, numero2, subtracao, multiplicacao, adicao, divisao: real
 
 inicio
 
-escreval (" Digite um número: ")
+escreval (" Digite um nÃºmero: ")
 leia(numero1)
 
-escreval (" Digite outro número: ")
+escreval (" Digite outro nÃºmero: ")
 leia(numero2)
 
 
@@ -27,9 +26,9 @@ multiplicacao <- numero1*numero2
 divisao <- numero1/numero2
 
 //Saida
-escreval ("Adição: ", adicao)
-escreval ("Subtração: ", subtracao)
-escreval ("Divisão: ", divisao)
-escreval ("Multiplicação: ", multiplicacao)
+escreval ("AdiÃ§Ã£o: ", adicao)
+escreval ("SubtraÃ§Ã£o: ", subtracao)
+escreval ("DivisÃ£o: ", divisao)
+escreval ("MultiplicaÃ§Ã£o: ", multiplicacao)
 
 Fimalgoritmo
